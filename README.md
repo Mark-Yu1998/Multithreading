@@ -17,7 +17,7 @@ After the code finish running:
 - raptops = 15
 
 
-Compile with: g++ staplemax.cpp -std=c++11 -lpthread -o staplemax
+Makefile is provided. To compile, type in make, to clean up, make clean
 
 run with: ./staplemax
 
