@@ -1,5 +1,5 @@
 # Multithreading
-
+~~~~
 The office supply superstore, StapleMax, has commissioned you to create a new inventory management program for them. There are 20 different files that contain the sales (in chronological order - one product per line) for each of 20 different salespeople. Write a multithreaded program (in the file staplemax.cpp) that deducts each item from the current inventory on the store shelves as it is sold (i.e., as you read it from the file).
 
 If the sale reduces the inventory of that item to 0, that salesperson must immediately restock that item on the self before selling any more items. 
